@@ -112,4 +112,8 @@ Python + 数据结构与算法
 - [ASR 学习路径](https://blog.csdn.net/qq_34941290/article/details/159169856)
 - 字节跳动、美团、小米、海康等公开算法岗 JD
 
+## 在线仓库
+
+- [Algorithm-Engineer-OS](https://github.com/tyro-Hu/Algorithm-Engineer-OS)
+
 *最后更新：2026-08-13*

@@ -8,6 +8,8 @@
 - 推荐动作只从 `任务清单.md` 第一个未完成任务读取，不临时新增
 - 完成任务后更新 `当前状态.md`，计划调整记录到 `总计划.md` 修订记录
 - 学习知识库根目录：`/Users/hujiankang/Documents/ChatGPT/算法工程师学习/算法工程师学习计划/`
+- GitHub 仓库：`https://github.com/tyro-Hu/Algorithm-Engineer-OS`（public）
+- Git remote：`git@github.com:tyro-Hu/Algorithm-Engineer-OS.git`，默认分支 `main`
 - 上游参考项目：`/Users/hujiankang/Documents/学习/`（AI-System-Architect-OS）
 - 当前使用者的背景：计算机硕士，Python 扎实，有深度学习、GNN 研究、RAG 实践、大模型应用探索经验；NLP 了解最多，CV/语音基本零基础；兼顾工作
 - 目标岗位：全国一线城市 + 合肥 · Agent 应用开发工程师（社招，主攻）+ 算法工程师（并行），12 个月，工资优先，大厂目标 + 中小公司并行准备
@@ -23,6 +25,7 @@
 - 凡要求学习者回答的问题，回答后必须先给简短评价反馈（对 / 基本对 / 差一点 + 一句修正），再进入下一课
 - 项目代码不放入本知识库，本知识库只放文档、模板、笔记、复盘
 - 每周末写学习日志，未解问题进 `07-问题库/`
+- 更新文档后按 Lore 协议提交并推送：`git add -A && git commit -m "..." && git push`
 
 ## 目录约定
 
