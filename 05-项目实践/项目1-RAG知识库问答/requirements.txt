@@ -1,0 +1,13 @@
+# M1 仅需 langchain-text-splitters；其余在后续里程碑按需加入
+langchain-text-splitters
+
+# M2+ 将用到（先列目标，避免重复改）
+# langchain
+# langchain-community
+# sentence-transformers
+# chromadb
+# fastapi
+# uvicorn[standard]
+# python-multipart
+# openai
+# pydantic
